@@ -1,0 +1,12 @@
+.front-end__content {
+    background-color: rgb(241, 211, 156);
+    color: black;
+}
+
+h1, h2 {
+    padding: 8px 8px;
+}
+
+p {
+    padding: 16px 16px;
+}
